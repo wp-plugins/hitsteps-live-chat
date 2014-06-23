@@ -4,7 +4,7 @@ Plugin Name: Hitsteps Live Chat
 Plugin URI: http://www.hitsteps.com/
 Description: Hitsteps is a powerful visitor manager which allow you to monitor and engage with your website visitors and convert them into customers.
 Author: hitsteps.com
-Version: 1.09
+Version: 1.10
 Author URI: http://www.hitsteps.com/
 */ 
  
@@ -40,7 +40,7 @@ $htssl='';
       }
   }
 
-?><!-- HITSTEPS LIVE CHAT TRACKING CODE<?php echo $htssl; ?> v1.06 - DO NOT CHANGE --><?php
+?><!-- HITSTEPS LIVE CHAT TRACKING CODE<?php echo $htssl; ?> v1.10 - DO NOT CHANGE --><?php
 
 if ($hitsteps_tracker==1){
 if (round($hitsteps_chat)==0)
@@ -1246,7 +1246,7 @@ $htssl=" - SSL";
                         echo $before_title . $title . $after_title; ?>
 
 <div style="text-align: center;" class="hs-wordpress-chat-placeholder">
-<!-- HITSTEPS ONLINE SUPPORT CODE v1.06 - DO NOT CHANGE --><div id="hs-live-chat-pos"><script type="text/javascript">
+<!-- HITSTEPS ONLINE SUPPORT CODE v1.10 - DO NOT CHANGE --><div id="hs-live-chat-pos"><script type="text/javascript">
 
 var hschatcs='www.';if (document.location.protocol=='https:') hschatcs='';hschatcsrc=document.location.protocol+'//'+hschatcs+'hitsteps.com/online.php?code=<?php echo $option['code']; ?>&img=<?php echo urlencode($instance['wd_img']); ?>&off=<?php echo urlencode($instance['wd_off']); ?>';
 document.write('<scri'+'pt type="text/javascript" src="'+hschatcsrc+'"></scr'+'ipt>');
