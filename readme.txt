@@ -1,9 +1,9 @@
 === Hitsteps Live Chat ===
 Contributors: Hitsteps
-Tags: ticket, ticketing, manager, visitors, visit, steps, free,visitor tracker,analytic,dashboard,widget,gadget,wordpress,realtime,daily, chat, chat online, contact plugin, contact us, customer support, free chat, chat software, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livechat, live help, live support, olark, online chat, online support, php live chat, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, banckle, clickdesk, click desk, hitsteps, hitsteps live chat
+Tags: ticket, manager, visitors, chat, online, contact, customer, live, help, support, Zopim, clickdesk, hitsteps
 Requires at least: 1.5
 Tested up to: 3.9.1
-Stable tag: 1.10
+Stable tag: 1.11
 
 Hitsteps is a powerful visitor manager which allow you to monitor and engage with your website visitors and convert them into customers.
 
@@ -31,3 +31,6 @@ http://www.hitsteps.com/features.php
 
 = 1.06 =
 * Fixed minor bugs
+
+= 1.11 =
+* Reduced number of tags to WordPress's standard number of 12-15 keywords.
