@@ -4,7 +4,7 @@ Plugin Name: Hitsteps Live Chat
 Plugin URI: http://www.hitsteps.com/
 Description: Hitsteps is a powerful visitor manager which allow you to monitor and engage with your website visitors and convert them into customers.
 Author: hitsteps.com
-Version: 1.11
+Version: 1.12
 Author URI: http://www.hitsteps.com/
 */ 
  

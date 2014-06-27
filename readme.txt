@@ -1,9 +1,9 @@
 === Hitsteps Live Chat ===
 Contributors: Hitsteps
-Tags: ticket, manager, visitors, chat, online, contact, customer, live, help, support, Zopim, clickdesk, hitsteps
+Tags: ticket, manager, visitors, chat, message, contact, customer, live, help, support, Zopim, clickdesk, hitsteps
 Requires at least: 1.5
 Tested up to: 3.9.1
-Stable tag: 1.11
+Stable tag: 1.12
 
 Hitsteps is a powerful visitor manager which allow you to monitor and engage with your website visitors and convert them into customers.
 
@@ -34,3 +34,6 @@ http://www.hitsteps.com/features.php
 
 = 1.11 =
 * Reduced number of tags to WordPress's standard number of 12-15 keywords.
+
+= 1.12 =
+* Added message tag
