@@ -2,8 +2,8 @@
 Contributors: Hitsteps
 Tags: ticket, manager, visitors, chat, message, contact, customer, live, help, support, Zopim, clickdesk, hitsteps, analytics, counter
 Requires at least: 1.5
-Tested up to: 3.9.1
-Stable tag: 1.13
+Tested up to: 4.00
+Stable tag: 1.14
 
 Hitsteps is a powerful visitor manager which allow you to monitor and engage with your website visitors and convert them into customers.
 
