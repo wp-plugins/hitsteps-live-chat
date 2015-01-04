@@ -1,17 +1,20 @@
-=== Hitsteps Live Chat ===
-Contributors: Hitsteps
-Tags: ticket, manager, visitors, chat, message, contact, customer, live, help, support, Zopim, clickdesk, hitsteps, analytics, counter
+=== Hitsteps Ultimate Live Chat ===
+Contributors: hitsteps
+Tags: ticket, manager, visitors, chat, message, contact, customer, live, help, support, Zopim, clickdesk, hitsteps, analytics, counter,snapengage,zopim,livechat,livehelp, realtime, analytics, stats
 Requires at least: 1.5
-Tested up to: 4.00
-Stable tag: 1.14
+Tested up to: 4.1
+Stable tag: 2.00
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Donate link: http://www.hitsteps.com/features.php#price
 
 Hitsteps is a powerful visitor manager which allow you to monitor and engage with your website visitors and convert them into customers.
 
 == Description ==
 
-Hitsteps Live chat is a powerful real time visitor engagement tool which integrate Hitsteps analytics and live chat tool into your website.
-This extention add a floating widget on bottom right of your website which allows your visitors to contact you in realtime. 
-It allows you to view your visitors stream and follow each visitors to know more about each pages they see while you are answering their ticket and questions. It allow you to engage with your visitors using live chat tool. You'll be provided with detailed information about each visitor such as geolocation, their first visit on your site, referer to your site, their browser, OS and device and much more!
+Hitsteps Analytics is a powerful real time visitor management and live chat tool. 
+It allows you to view your visitors stream and follow each visitors to know more about each pages they see. It allow you to engage with your visitors using live chat tool. You'll be provided with detailed information about each visitor such as geolocation, their first visit on your site, referer to your site, their browser, OS and device and much more!
+Advantages over Google analytics includes but not limited to Detailed information of each and all visitors, ability to engage with visitors using live chat tool, heatmap for each pages, carefully pre-generated and categorized reports, real-time analytics on all reports and much more...
 
 Read More:
 http://www.hitsteps.com/features.php
@@ -37,3 +40,11 @@ http://www.hitsteps.com/features.php
 
 = 1.12 =
 * Added message tag
+
+= 2.00 =
+* Major GUI Upgrade
+
+
+== Frequently Asked Questions ==
+
+You'll find updated FAQs on [Support page](http://www.hitsteps.com/support.php).
