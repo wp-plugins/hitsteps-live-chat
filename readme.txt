@@ -2,8 +2,8 @@
 Contributors: hitsteps
 Tags: ticket, manager, visitors, chat, message, contact, customer, live, help, support, Zopim, clickdesk, hitsteps, analytics, counter,snapengage,zopim,livechat,livehelp, realtime, analytics, stats
 Requires at least: 1.5
-Tested up to: 4.1
-Stable tag: 2.00
+Tested up to: 4.2.1
+Stable tag: 2.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: http://www.hitsteps.com/features.php#price
